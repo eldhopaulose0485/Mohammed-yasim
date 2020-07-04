@@ -1,11 +1,4 @@
-@media (max-width: 600px){
-    .yasim-img{
-        width: 100%;
-        height: 360px;
-        /* visibility: visible; */
-        flex: 100%;
-    }
-}
+
 @media (max-width: 600px){
     .name{
         margin-top: -8em;
@@ -15,4 +8,177 @@
         text-shadow: 2px 2px 2px rgba(16, 16, 16, 0.57);
         font-weight: 900;
    }
+ }
+ @media (max-width: 640px){
+    .name-1{
+        text-align: center;
+        margin-top: -21px;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-shadow: 2px 2px 2px rgba(16, 16, 16, 0.57);
+        font-weight: 900;
+    }
+}
+@media (max-width:1200px){
+    .yasim-img{
+        width: 100%;
+        height: 360px;
+        visibility: visible;
+        flex: 100%;
+    }
+}
+@media (max-width:1106px){
+    .yasim-img{
+        width: 48em;
+        height: 362px;
+        visibility: visible;
+        flex: 100%;
+    }
+}
+@media (max-width:1042px){
+    .yasim-img{
+        width: 42em;
+        height: 362px;
+        visibility: visible;
+        flex: 100%;
+    }
+}
+@media (max-width: 1024px){
+.yasim-img{
+    width: 48em;
+    height: 362px;
+    visibility: visible;
+    flex: 100%;
+}
+}
+@media (max-width:854px){
+    .yasim-img{
+        width: 100%;
+        height: 351px;
+        visibility: visible;
+        flex: 100%;
+    }
+}
+@media (max-width: 640px){
+    .yasim-img{
+        width: 100%;
+        height: 360px;
+        /* visibility: visible; */
+        flex: 100%;
+    }
+}
+/* @media (max-height: 640px){
+    .yasim-img{
+        width: 100%;
+        height: 360px;
+      
+        flex: 100%;
+    }
+} */
+/* @media (max-height: 640px){
+    .name{
+        margin-top: -8em;
+        text-align: center;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-shadow: 2px 2px 2px rgba(16, 16, 16, 0.57);
+        font-weight: 900;
+   }
+ } */
+
+/* @media(min-width:834px) and (max-width:1200px){
+    .name{
+        margin-top: -8em;
+        text-align: center;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        text-shadow: 2px 2px 2px rgba(16, 16, 16, 0.57);
+        font-weight: 900;
+   }
+}  */
+ /* @media(min-width:601px) and (max-width:767px){
+    .yasim-img{
+        width: 58em;
+        height: 50em;
+        /* visibility: visible;   */
+        /* flex: 100%;
+    }
+}  */
+@media (max-width: 1182px){
+    .about{
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: 2em 0 0 80px;
+        text-align: center;
+    }  
+@media (max-width: 1182px){
+.about {
+    font-size: 2.5em;
+    color: #fff;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin: -2em 0 0 531px;
+    text-align: center;
+}  
+}
+@media (max-width: 1182px){
+    .about {
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: -2em 0 0 531px;
+        text-align: center;
+    }  
+    }
+@media (max-width: 731px){
+    .about{
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: 2em 0 0 105px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 568px){
+    .about{
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: 2em 0 0 58px;
+        text-align: center;
+    }
+}
+@media (max-width: 667px){
+    .about{
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: 2em 0 0 98px;
+        text-align: center;
+        padding-top: 1em;
+    }
+}
+@media (max-width: 640px){
+    .about{
+        font-size: 2.5em;
+        color: #fff;
+        font-family: 'Julius Sans One', sans-serif;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin: 2em 0 0 80px;
+        text-align: center;
+    }
 }
